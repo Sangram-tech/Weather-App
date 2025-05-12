@@ -61,7 +61,7 @@
 ## 🙏 Acknowledgements
 Weather data by WeatherAPI.com
 
-Inspired by minimal UI concepts
+Inspired by minimal UI concepts..
 
 
 
