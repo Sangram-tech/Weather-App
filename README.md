@@ -15,7 +15,7 @@
 
 ## 🚀 Live Demo
 
-👉 **[Try it Now on CodePen](https://codepen.io/yourusername/pen/yourcodepenid)**  
+👉 **[Try it Now on CodePen](https://sangram-tech.github.io/Weather-App/)**  
 *(Replace with your actual CodePen URL after publishing)*
 
 ---
